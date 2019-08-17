@@ -56,13 +56,14 @@ Bibtex:
 
 @article{cary2019emissions,
 
-	author = {Cary, Michael},
+author = {Cary, Michael},
 
-	title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
+title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
 
-	journal = {Preprints},
+journal = {Preprints},
 
-	year = {2019}
+year = {2019}
+
 }
 
 Don't forget to cite any data sources you might use independently of this! (see paper for details)
