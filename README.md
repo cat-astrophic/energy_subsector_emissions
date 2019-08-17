@@ -2,15 +2,13 @@
 
 This script uses the accompanying csv files to forecast greenhouse gas (GHG) emissions for the US at the state and national level for the energy production sector and six of its subsectors (seven total categories).
 
-It runs eight different regression models for each of the seven categories: baseline,  year fixed effects, year and state fixed effects, year fixed effects and state random effects, with each of these four models being run with and without a cubic term for gdp per capita.
+It runs two different regression models for each of the seven categories: both are AR-1 autoregressive models, one specified to test the EKC hypothesis, the other is a linear GDP model
 
-It then forecasts population density and gdp per capita at the state level for 100 years.
+It then forecasts gdp per capita and a series of covariates at the state level.
 
-Using these forecasts and the parameters from the regression models, each of these eight  scenarios is forecasted over a 100 year time period for each of the seven different categories.
+Using these forecasts and the parameters from the regression models, each of these scenarios is forecasted for each of the seven different categories.
 
-Forecasts are run again with population density held constant rather than also being forecasted.
-
-A myriad of plots are created and saved as eps files.
+A few plots are created and saved as eps files.
 
 Summary outputs from regressions are saved as txt files.
 
@@ -28,6 +26,14 @@ Second, decide where you want to output the txt, csv, and eps files.
 
 I used the path \Users\User\Documents\Data\Regression_Outputs\
 
+There are two subdirectories which need to be created (eventually this will be automated, but resubmission deadlines and all...)
+
+\Users\User\Documents\Data\Regression_Outputs\EKC\
+
+and
+
+\Users\User\Documents\Data\Regression_Outputs\Linear\
+
 Also note that you may change all eps file outputs to png if desired.
 
 %%%%%%%%%% RUNNING THE SCRIPT %%%%%%%%%%
@@ -44,38 +50,15 @@ Note that the first path must be to wherever you have python installed.
 
 The second path directs python to the script itself.
 
-Upon completion the Regression_Outputs folder will contain 237 files.
-
 %%%%%%%%%% CITING THIS PAPER (PREPRINT) %%%%%%%%%%
 
 Bibtex:
 
-@article{cary2019have,
-
-  author = {Cary, Michael},
-  
-  title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
-  
-  journal = {Preprints},
-  
-  year = {2019}
-  
+@article{cary2019emissions,
+	author = {Cary, Michael},
+	title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
+	journal = {Preprints},
+	year = {2019}
 }
 
-%%%%%%%%%% CITING THE DATA SOURCE %%%%%%%%%%
-
-Bibtex:
-
-@article{wri2015data,
-
-  author = {{WRI, CAIT Climate Data Explorer}},
-  
-  title = {Climate Analysis Indicators Tool: WRI’s Climate Data Explorer},
-  
-  journal = {Washington, DC: World Resources Institute},
-  
-  year = {2014},
-  
-  note = {Available online at: \url{http://cait.wri.org}. Accessed on April 2, 2019}
-  
-}
+Don't forget to cite any data sources you might use independently of this! (see paper for details)
