@@ -55,9 +55,13 @@ The second path directs python to the script itself.
 Bibtex:
 
 @article{cary2019emissions,
+
 	author = {Cary, Michael},
+
 	title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
+
 	journal = {Preprints},
+
 	year = {2019}
 }
 
