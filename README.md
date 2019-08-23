@@ -1,4 +1,4 @@
-%%%%%%%%%% WHAT THIS SCRIPT DOES %%%%%%%%%%
+## Description
 
 This script uses the accompanying csv files to forecast greenhouse gas (GHG) emissions for the US at the state and national level for the energy production sector and six of its subsectors (seven total categories).
 
@@ -14,7 +14,7 @@ Summary outputs from regressions are saved as txt files.
 
 Forecasts are saved as txt and csv files.
 
-%%%%%%%%%% SET UP %%%%%%%%%%
+## Setup
 
 In order to run this script, some initial setup is required.
 
@@ -36,7 +36,7 @@ and
 
 Also note that you may change all eps file outputs to png if desired.
 
-%%%%%%%%%% RUNNING THE SCRIPT %%%%%%%%%%
+## Running the script
 
 In order to run the script you will need python.
 
@@ -50,20 +50,15 @@ Note that the first path must be to wherever you have python installed.
 
 The second path directs python to the script itself.
 
-%%%%%%%%%% CITING THIS PAPER (PREPRINT) %%%%%%%%%%
+## Citation
 
 Bibtex:
 
-@article{cary2019emissions,
-
-author = {Cary, Michael},
-
-title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
-
-journal = {Preprints},
-
-year = {2019}
-
+@article{cary2019emissions,\
+&nbsp;&nbsp;&nbsp;&nbsp;author = {Cary, Michael},\
+&nbsp;&nbsp;&nbsp;&nbsp;title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},\
+&nbsp;&nbsp;&nbsp;&nbsp;journal = {Preprints},\
+&nbsp;&nbsp;&nbsp;&nbsp;year = {2019}\
 }
 
 Don't forget to cite any data sources you might use independently of this! (see paper for details)
