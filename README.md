@@ -36,20 +36,6 @@ and
 
 Also note that you may change all eps file outputs to png if desired.
 
-## Running the script
-
-In order to run the script you will need python.
-
-I personally use Anaconda3 with Spyder as an IDE.
-
-You may either run this in your IDE of choice or from the shell with the following command:
-
-C:\Users\User\anaconda3\python.exe C:\Users\User\\.spyder-py3\state_level_stats.py
-
-Note that the first path must be to wherever you have python installed.
-
-The second path directs python to the script itself.
-
 ## Citation
 
 Bibtex:
