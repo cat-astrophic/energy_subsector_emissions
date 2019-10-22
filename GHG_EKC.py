@@ -12,7 +12,6 @@ from scipy.stats import norm
 
 arpath = 'C:/Users/User/Documents/Data/state_level_ardata.csv'
 epapath = 'C:/Users/User/Documents/Data/EPAGHGdata.csv'
-renewable_path = 'C:/Users/User/Documents/Data/state_level_renewable.csv'
 gdp_filepath = 'C:/Users/User/Documents/Data/gdp_reg_data.csv'
 ratiopath = 'C:/Users/User/Documents/Data/ghg_ratio_data.csv'
 
