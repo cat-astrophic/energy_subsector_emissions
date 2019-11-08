@@ -36,8 +36,6 @@ X_Transportation = data[['GDP_per_capita', 'Population_Density', 'Renewables', '
 X_Electric_Power = data[['GDP_per_capita', 'Population_Density', 'Renewables', 'HDD', 'CDD']]
 X_Fugitive = data[['GDP_per_capita', 'Population_Density', 'Renewables', 'HDD', 'CDD']]
 
-#X_Fugitive.drop(['California'], inplace = True, axis = 1)
-
 # Running AR-1 regression models with EKC Hypothesis format
 
 # Emissions from energy
