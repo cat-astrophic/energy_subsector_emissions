@@ -36,8 +36,6 @@ X_Transportation = data[['GDP_per_capita', 'GDP_per_capita_2', 'Population_Densi
 X_Electric_Power = data[['GDP_per_capita', 'GDP_per_capita_2', 'Population_Density', 'Renewables', 'HDD', 'CDD']]
 X_Fugitive = data[['GDP_per_capita', 'GDP_per_capita_2', 'Population_Density', 'Renewables', 'HDD', 'CDD']]
 
-# Running AR-1 regression models with EKC Hypothesis format
-
 # Emissions from energy
 
 energy_model = stats.OLS(Y_Energy.astype(float), X_Energy.astype(float))
