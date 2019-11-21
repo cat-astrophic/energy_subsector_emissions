@@ -44,7 +44,15 @@ Also note that you may change all eps file outputs to png if desired.
 
 ## Citation
 
-Bibtex:
+### APA:
+
+Cary, M. (2019). Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors. *Environment Systems and Decisions*, X(X), XXX-XXX.
+
+### MLA:
+
+Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors." *Environment Systems and Decisions* X.X (2019): XXX-XXX.
+
+### Bibtex:
 
 @article{cary2019emissions,\
 &nbsp;&nbsp;&nbsp;&nbsp;author = {Cary, Michael},\
