@@ -46,11 +46,11 @@ Also note that you may change all eps file outputs to png if desired.
 
 ### APA:
 
-Cary, M. (2019). Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors. *Environment Systems and Decisions*, X(X), XXX-XXX.
+Cary, M. (2019). Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors. *Environment Systems and Decisions*.
 
 ### MLA:
 
-Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors." *Environment Systems and Decisions* X.X (2019): XXX-XXX.
+Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors." *Environment Systems and Decisions*.
 
 ### Bibtex:
 
@@ -58,7 +58,7 @@ Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? 
 &nbsp;&nbsp;&nbsp;&nbsp;author = {Cary, Michael},\
 &nbsp;&nbsp;&nbsp;&nbsp;title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},\
 &nbsp;&nbsp;&nbsp;&nbsp;journal = {Environment Systems and Decisions},\
-&nbsp;&nbsp;&nbsp;&nbsp;year = {2019}\
+&nbsp;&nbsp;&nbsp;&nbsp;year = {}\
 }
 
 Don't forget to cite any data sources you might use independently of this! (see paper for details)
