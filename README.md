@@ -60,5 +60,5 @@ Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? 
 &nbsp;&nbsp;&nbsp;&nbsp;journal={Environment Systems and Decisions},\
 &nbsp;&nbsp;&nbsp;&nbsp;pages={1--10},\
 &nbsp;&nbsp;&nbsp;&nbsp;year={2019},\
-&nbsp;&nbsp;&nbsp;&nbsp;publisher={Springer}
+&nbsp;&nbsp;&nbsp;&nbsp;publisher={Springer}\
 }
