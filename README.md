@@ -62,5 +62,3 @@ Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? 
 &nbsp;&nbsp;&nbsp;&nbsp;year={2019},\
 &nbsp;&nbsp;&nbsp;&nbsp;publisher={Springer}
 }
-
-Don't forget to cite any data sources you might use independently of this! (see paper for details on data sources for this paper)
