@@ -54,11 +54,13 @@ Cary, Michael. "Have Greenhouse Gas Emissions from US Energy Production Peaked? 
 
 ### Bibtex:
 
-@article{cary2019emissions,\
-&nbsp;&nbsp;&nbsp;&nbsp;author = {Cary, Michael},\
-&nbsp;&nbsp;&nbsp;&nbsp;title = {Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},\
-&nbsp;&nbsp;&nbsp;&nbsp;journal = {Environment Systems and Decisions},\
-&nbsp;&nbsp;&nbsp;&nbsp;year = {}\
+@article{cary2019have,
+&nbsp;&nbsp;&nbsp;&nbsp;title={Have greenhouse gas emissions from US energy production peaked? State level evidence from six subsectors},
+&nbsp;&nbsp;&nbsp;&nbsp;author={Cary, Michael},
+&nbsp;&nbsp;&nbsp;&nbsp;journal={Environment Systems and Decisions},
+&nbsp;&nbsp;&nbsp;&nbsp;pages={1--10},
+&nbsp;&nbsp;&nbsp;&nbsp;year={2019},
+&nbsp;&nbsp;&nbsp;&nbsp;publisher={Springer}
 }
 
 Don't forget to cite any data sources you might use independently of this! (see paper for details)
