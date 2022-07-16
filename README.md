@@ -1,6 +1,6 @@
 ## Description
 
-This repo contains everything used in the paper "Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors" which has been accepted for publication in *Environment Systems and Decisions*.
+This repo contains everything used in the paper "Have Greenhouse Gas Emissions from US Energy Production Peaked? State Level Evidence from Six Subsectors" which has been accepted for publication in [*Environment Systems and Decisions*](https://www.preprints.org/manuscript/201905.0058/v3).
 
 The main script (state_level_stats.py) uses the accompanying csv files to forecast greenhouse gas (GHG) emissions for the US at the state and national level for the energy production sector and six of its subsectors (seven total categories).
 
